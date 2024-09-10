@@ -1,2 +1,5 @@
-# House-Price-Prediction-task1
-ML,AI
+House Price
+Prediction
+Develop a machine learning model
+for predicting house prices using
+Python, scikit-learn, and TensorFlow.
